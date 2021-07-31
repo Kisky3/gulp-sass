@@ -1,5 +1,4 @@
 # Gulp + Sass
-gulp-sass project 極力vscodeの拡張機能を使う
 
 ### Installed
 - eslint
@@ -21,10 +20,10 @@ gulp-sass project 極力vscodeの拡張機能を使う
 
 ### Tool
 - gulp
-- sass(dar-sass)のコンパイル
-- それのwatch
-- cssのminify
-- jsのminify
+- sass(dar-sass) compile
+- atch
+- css minify
+- js minify
 - Local Server
 - VS code Live server
 
