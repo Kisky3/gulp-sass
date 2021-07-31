@@ -1,8 +1,9 @@
 # Gulp + Sass
 
-# Use gulp to minify files
-Run following command to compile and minify scss file, 
-Minified files would be created as *style.min.css* and *bootstrap.min.css* in `src/stylesheets/css`,
+### Use gulp to minify files
+Run following command to compile and minify scss file, <br/>
+Minified files would be created as *style.min.css* and *bootstrap.min.css* in `src/stylesheets/css`
+
 ```
 gulp compileAndMinify
 ```
@@ -13,7 +14,7 @@ Then you can use them in your template.html as follow:
 <link rel="stylesheet" href="stylesheets/css/style.min.css" />
 ```
 
-Run following command to compile and minify js file,
+Run following command to compile and minify js file, <br/>
 Minified files would be created as *main.min.js* in `src/js/dist`
 ```
 npm run babel
