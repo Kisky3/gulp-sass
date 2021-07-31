@@ -1,0 +1,25 @@
+{
+  "extends": [
+    "stylelint-config-standard",
+    "stylelint-prettier/recommended"
+  ],
+  "ignoreFiles": [
+    "**/*.min.css"
+  ],
+  "rules": {
+    "prettier/prettier": true,
+    "no-descending-specificity": null,
+    "at-rule-no-unknown": [
+      true,
+      {
+        "ignoreAtRules": [
+          "use",
+          "forward",
+          "import",
+          "mixin",
+          "each"
+        ]
+      }
+    ]
+  }
+}
