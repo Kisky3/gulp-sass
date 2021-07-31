@@ -1,33 +1,5 @@
 # Gulp + Sass
 
-### Installed
-- eslint
-- stylelint
-- htmlhint
-- PHP Intelephense
-- prettier
-
-### Vscode Extensions
-- eslint
-- stylelint
-- HTMLHint
-- PHP Intelephense
-- prettier
-
-### Style Validator
-- css
-- scss
-
-### Tool
-- gulp
-- sass(dar-sass) compile
-- atch
-- css minify
-- js minify
-- Local Server
-- VS code Live server
-
-***
 # Use gulp to minify files
 Run following command to compile and minify scss file, 
 Minified files would be created as *style.min.css* and *bootstrap.min.css* in `src/stylesheets/css`,
@@ -65,3 +37,29 @@ Run the follow command to watch style changing so that you dont need to compile 
 gulp
 ```
 
+### Installed
+- eslint
+- stylelint
+- htmlhint
+- PHP Intelephense
+- prettier
+
+### Vscode Extensions
+- eslint
+- stylelint
+- HTMLHint
+- PHP Intelephense
+- prettier
+
+### Style Validator
+- css
+- scss
+
+### Tool
+- gulp
+- sass(dar-sass) compile
+- atch
+- css minify
+- js minify
+- Local Server
+- VS code Live server
