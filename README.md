@@ -1,4 +1,5 @@
-# Gulp + Sass
+# Gulp + Sass 🍑
+This is a project created by Gulp and Sass. 
 
 ### Use gulp to minify files
 Run following command to compile and minify scss file, <br/>
